@@ -1,7 +1,6 @@
 include <YAPP_Box/library/YAPPgenerator_v18.scad>
 
-cutoutsGrill = [[5, 0, 33, 70, 1, 2, 90, "lid"]
-               ];
+cutoutsGrill = [[5, 0, 33, 70, 1, 2, 90, "lid"]];
 
 printBaseShell      = true;
 printLidShell       = true;
@@ -38,7 +37,6 @@ paddingFront        = 0;
 paddingBack         = 35;
 paddingRight        = 0;
 paddingLeft         = 0;
-
 
 //-- D E B U G -----------------//-> Default ---------
 showSideBySide      = true;     //-> true
