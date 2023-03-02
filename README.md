@@ -6,4 +6,4 @@ A simple case for my [DC-to-DC converter](https://www.aliexpress.com/item/100500
 ![The DC-to-DC Converter Module](converter.png)
 
 ## The Case
-![The Case](case.png)
+![The Case](case.jpg)
